@@ -25,10 +25,16 @@ Here are some ideas to get you started:
 [![Newsletter](https://img.shields.io/badge/-Newsletter-1B5E20?style=flat-square&logo=substack&logoColor=white)](https://www.davidsantossalvador.es/newsletter)
 
 
+The skill I'm most interested in developing — and the one I think the sustainability sector needs far more of — is the ability to **move between domain knowledge and technical possibility**.
+
+Not to become an engineer. Not to abandon the environmental focus. But to be fluent enough in both languages to identify where the gap is, scope a solution that actually fits the problem, and build it without making it more complicated than it needs to be.
+
+Everything I publish here is part of that journey.
+
 
 > *"I publish my projects and learnings not because I have all the answers, but because building in public is how I learn best — and maybe it helps someone else along the way."*
 
-
+---
 
 ## 🌿 What I'm exploring
 
@@ -39,7 +45,7 @@ My focus sits at the intersection of two ideas:
 - **🤖 AI for Sustainability** — applying data pipelines, agentic systems, and automation to real ESG and environmental challenges
 - **🌱 Sustainability for AI** — keeping an honest eye on the resource cost of the tools I build
 
-I don't come here to show finished products. I come here to learn, share what works, share what doesn't, and document the process.
+My Github's profile is my space to show finished products. I come here to learn, share what works, share what doesn't, and document the process.
 
 
 
@@ -54,7 +60,7 @@ I don't come here to show finished products. I come here to learn, share what wo
 
 ## 📂 Projects
 
-##### 🌿 [Agentic Analytics ESG](https://github.com/Daaviid99/agentic-analytics-sustainability): 
+#### 🌿 [Agentic Analytics ESG](https://github.com/Daaviid99/agentic-analytics-sustainability): 
 Two-agent system that turns raw environmental data (DuckDB) into natural-language ESG analysis and automated PDF sustainability reports — with per-query carbon footprint tracking built in. A prototype born from a real frustration: ESG teams spending hours in Excel doing things that should be automated. 
 This project explores what happens when you move sustainability data into a proper database and let an AI agent query it in plain English. 
 - **Stack:** Python · Claude API (Agentic tool use) · DuckDB · Streamlit · Jinja2
@@ -68,17 +74,6 @@ This project explores what happens when you move sustainability data into a prop
 - 📄 [ESG Data Automation in Practice: Building an Agentic ESG System](https://www.davidsantossalvador.es/esg-data-automation-in-practice-building-an-agentic-esg-system-to-replace-manual-reporting-and-centralise-environmental-data)
 - 📄 [5 Ways to Digitalise Sustainability Reporting and ESG Automation](https://www.davidsantossalvador.es/5-ways-to-digitalise-sustainability-reporting-and-automate-esg-collect)
 - 📄 [I Built an AI Agent That Thinks Like Me (It Saved Me 15 Hours a Week)](https://www.davidsantossalvador.es/my-digital-brain-agent-saved-15-hours)
-
-
-
-
-## 🧭 My learning philosophy
-
-The skill I'm most interested in developing — and the one I think the sustainability sector needs far more of — is the ability to **move between domain knowledge and technical possibility**.
-
-Not to become an engineer. Not to abandon the environmental focus. But to be fluent enough in both languages to identify where the gap is, scope a solution that actually fits the problem, and build it without making it more complicated than it needs to be.
-
-Everything I publish here is part of that journey.
 
 
 
