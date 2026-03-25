@@ -54,8 +54,10 @@ I don't come here to show finished products. I come here to learn, share what wo
 
 ## 📂 Projects
 
-- 🌿 [Agentic Analytics ESG](https://github.com/Daaviid99/agentic-analytics-sustainability): Two-agent system that turns raw environmental data (DuckDB) into natural-language ESG analysis and automated PDF sustainability reports — with per-query carbon footprint tracking built in. A prototype born from a real frustration: ESG teams spending hours in Excel doing things that should be automated. This project explores what happens when you move sustainability data into a proper database and let an AI agent query it in plain English.
- - **Stack:** Python · Claude API (Agentic tool use) · DuckDB · Streamlit · Jinja2
+##### 🌿 [Agentic Analytics ESG](https://github.com/Daaviid99/agentic-analytics-sustainability): 
+Two-agent system that turns raw environmental data (DuckDB) into natural-language ESG analysis and automated PDF sustainability reports — with per-query carbon footprint tracking built in. A prototype born from a real frustration: ESG teams spending hours in Excel doing things that should be automated. 
+This project explores what happens when you move sustainability data into a proper database and let an AI agent query it in plain English. 
+- **Stack:** Python · Claude API (Agentic tool use) · DuckDB · Streamlit · Jinja2
  - **Honest note:** This is a proof of concept, not a production system. The README documents its limitations in detail.
 
 
