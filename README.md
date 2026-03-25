@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Daaviid99/Daaviid99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm David Santos Salvador 👋
+## Hi, I'm David Santos Salvador 👋
 
 🌱 **Sustainability Specialist learning Data Science** | 🤖 **Exploring AI Agents** | 🌍 **Spain**
 
