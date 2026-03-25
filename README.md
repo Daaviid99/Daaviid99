@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@David_Santos_Salvador)
 [![Newsletter](https://img.shields.io/badge/-Newsletter-1B5E20?style=flat-square&logo=substack&logoColor=white)](https://www.davidsantossalvador.es/newsletter)
 
----
+
 
 > *"I publish my projects and learnings not because I have all the answers, but because building in public is how I learn best — and maybe it helps someone else along the way."*
 
----
+
 
 ## 🌿 What I'm exploring
 
@@ -41,14 +41,16 @@ My focus sits at the intersection of two ideas:
 
 I don't come here to show finished products. I come here to learn, share what works, share what doesn't, and document the process.
 
----
+
+
 
 ## 🛠️ Tools I'm learning with
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/-Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
----
+
+
 
 ## 📂 Projects
 
@@ -60,7 +62,8 @@ A prototype born from a real frustration: ESG teams spending hours in Excel doin
 **Stack:** Python · Claude API (Agentic tool use) · DuckDB · Streamlit · Jinja2  
 **Honest note:** This is a proof of concept, not a production system. The README documents its limitations in detail.
 
----
+
+
 
 ## ✍️ Latest Blog Posts
 
@@ -68,7 +71,8 @@ A prototype born from a real frustration: ESG teams spending hours in Excel doin
 - 📄 [5 Ways to Digitalise Sustainability Reporting and ESG Automation](https://www.davidsantossalvador.es/5-ways-to-digitalise-sustainability-reporting-and-automate-esg-collect)
 - 📄 [I Built an AI Agent That Thinks Like Me (It Saved Me 15 Hours a Week)](https://www.davidsantossalvador.es/my-digital-brain-agent-saved-15-hours)
 
----
+
+
 
 ## 🧭 My learning philosophy
 
@@ -78,7 +82,8 @@ Not to become an engineer. Not to abandon the environmental focus. But to be flu
 
 Everything I publish here is part of that journey.
 
----
+
+
 
 ## 📬 Connect
 
