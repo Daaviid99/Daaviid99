@@ -83,7 +83,3 @@ I write about sustainability, data, and the honest intersection of both.
 [![Blog](https://img.shields.io/badge/Read_the_blog-davidsantossalvador.es-2E7D32?style=flat-square)](https://www.davidsantossalvador.es/blog)
 [![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-santos-salvador/)
 [![YouTube](https://img.shields.io/badge/Watch_on-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@David_Santos_Salvador)
-
----
-
-![GitHub contribution graph](https://ghchart.rshah.org/2E7D32/Daaviid99)
