@@ -1,6 +1,6 @@
 ## Hi, I'm David Santos Salvador 👋
 
-🌱 **Sustainability Specialist learning Data Science** | 🤖 **Exploring AI Agents** | 🌍 **Spain**
+🌱 **Sustainability Specialist applying Data Science & Data Engineer** | 🤖 **Exploring AI Agents** | 🌍 **Spain**
 
 [![Blog](https://img.shields.io/badge/-Blog-2E7D32?style=flat-square&logo=hugo&logoColor=white)](https://www.davidsantossalvador.es/blog)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-santos-salvador/)
